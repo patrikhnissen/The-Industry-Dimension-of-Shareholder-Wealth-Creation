@@ -1,12 +1,4 @@
 # Bachelorprojekt
-├── Merge1.py                # Merges CRSP and Compustat, patches SIC codes (baseline)
-├── Merge2.py                # Merges CRSP and Compustat with Shumway imputation (robustness)
-├── Q1.py                    # Industry-level wealth creation and concentration (Q1)
-├── Q2.py                    # Sub-period regime analysis (Q2)
-├── Q3.py                    # Bootstrap diversification analysis (Q3)
-├── Robustness.py            # Robustness check with Shumway delisting returns
-├── SIC9999_diagnostic.py    # Diagnostic tool for inspecting unclassified stocks
-├── F-F_Research_Data_Factors.CSV   # Kenneth French monthly factors (included)
 
 Step 1: Download the Required Data
 You need to download two datasets from external sources. The Kenneth French data file is already included in the repository.
