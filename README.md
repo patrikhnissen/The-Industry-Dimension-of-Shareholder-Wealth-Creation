@@ -39,11 +39,9 @@ Step 2: Merge and Prepare the Data
 Before running any analysis scripts, the CRSP and Compustat datasets must be merged. This step patches the SIC code 9999, which CRSP assigns to stocks without a verified industry classification, using the earliest available SIC code from Compustat matched by ticker symbol.
 Baseline analysis (Q1, Q2, Q3)
 Run Merge1.py. This produces the cleaned and patched dataset used for the main analysis:
+Output file: CRSP_90_24_patched.csv
 
-Step 2: Merge and Prepare the Data
-Before running any analysis scripts, the CRSP and Compustat datasets must be merged. This step patches the SIC code 9999, which CRSP assigns to stocks without a verified industry classification, using the earliest available SIC code from Compustat matched by ticker symbol.
-Baseline analysis (Q1, Q2, Q3)
-Run Merge1.py. This produces the cleaned and patched dataset used for the main analysis:
+Run Merge2.py for Robustness. This produces the cleaned and patched dataset with Shumway Delisting Returns:
 Output file: CRSP_90_24_patched_shumway.csv
 
 Step 3: Run the Analysis
