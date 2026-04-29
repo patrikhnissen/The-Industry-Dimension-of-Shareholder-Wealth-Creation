@@ -1,4 +1,4 @@
-# Bachelorprojekt
+# The-Industry-Dimension-of-Shareholder-Wealth-Creation
 
 Step 1: Download the Required Data
 You need to download two datasets from external sources. The Kenneth French data file is already included in the repository.
