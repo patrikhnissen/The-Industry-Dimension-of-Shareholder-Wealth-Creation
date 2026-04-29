@@ -19,10 +19,7 @@ Variable you need
 - SICCD
 
 Apply the following filters when downloading:
-
-Share codes: 10, 11, 12
 Date range: January 1990 to December 2024
-Exchanges: NYSE (1), AMEX (2), NASDAQ (3)
 
 1B. Compustat North America (via WRDS)
 From the same WRDS platform, download the Compustat North America Fundamentals Annual file with the following variables:
