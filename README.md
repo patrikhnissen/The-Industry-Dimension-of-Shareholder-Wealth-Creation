@@ -22,7 +22,7 @@ Apply the following filters when downloading:
 Date range: January 1990 to December 2024
 
 1B. Compustat North America (via WRDS)
-From the same WRDS platform, download the Compustat North America Fundamentals Annual file with the following variables:
+From the same WRDS platform, download the Compustat North America Fundamentals Monthly file with the following variables:
 Variables you need
 - tic
 - sic
